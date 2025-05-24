@@ -30,7 +30,7 @@ Contribuyendo a proyectos de código abierto para devolver valor a la comunidad.
 Sigo un enfoque estructurado para aprender, inspirado en una hoja de ruta para dominar tecnologías como Python, Arduino y React. Mi filosofía de aprendizaje incluye:
 
 Bases sólidas: Construir una base fuerte en programación y hardware.
-Práctica práctica: Crear proyectos como dispositivos IoT y aplicaciones web para aplicar conocimientos.
+Práctica: Crear proyectos como dispositivos IoT y aplicaciones web para aplicar conocimientos.
 Mejora continua: Usar herramientas como Git para control de versiones y Mermaid para documentación clara.
 
 <!---
