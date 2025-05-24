@@ -1,5 +1,7 @@
 ¡Bienvenido/a a mi perfil de GitHub! 👋
+
 Hola, soy Nicole, una estudiante apasionada de ingeniería en sistemas con un enfoque en crear soluciones innovadoras y centradas en el usuario. Disfruto trabajar en proyectos que combinan desarrollo web, IoT, diseño UI/UX y gestión de proyectos, con un fuerte énfasis en desarrollar software accesible e impactante. Mi trabajo se basa en el aprendizaje continuo, la colaboración y la entrega de resultados de alta calidad.
+
 🚀 Sobre mí
 
 🎓 Estudiante de Ingeniería de sistemas, especializada en programación orientada a objetos, sistemas web e IoT.
